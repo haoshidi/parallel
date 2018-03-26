@@ -4,7 +4,7 @@ spring:
   application:
    name: microservice-provider-user  
   datasource:
-   url: jdbc:mysql://localhost:3306/test?characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull
+   url: jdbc:mysql://192.168.1.160:3306/pic?characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull
    username: root
    password:
    driver-class-name: com.mysql.jdbc.Driver

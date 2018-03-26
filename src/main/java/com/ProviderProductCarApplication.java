@@ -6,8 +6,8 @@ import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
-public class ProvideruserApplication {
+public class ProviderProductCarApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(ProvideruserApplication.class,args);
+		SpringApplication.run(ProviderProductCarApplication.class,args);
 	}
 }
